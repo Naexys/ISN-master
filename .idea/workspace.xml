@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e413beec-d221-415b-b440-17c1493d7d27" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-479784177">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="png" value="22" />
+          <entry key="py" value="173" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="22" />
+          <entry key="Python" value="173" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="8206" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="8206" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resize</find>
+      <find>uid</find>
+      <find>for</find>
+      <find>type</find>
+      <find>block_list</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Class/Terrain/MovingBlock.py" />
+        <option value="$PROJECT_DIR$/Assets/loadingTextures.py" />
+        <option value="$PROJECT_DIR$/Functions/Controls/Keyboard/keyboard_pressed.py" />
+        <option value="$PROJECT_DIR$/Functions/update_NFC.py" />
+        <option value="$PROJECT_DIR$/Functions/NFC/testuid.py" />
+        <option value="$PROJECT_DIR$/Functions/NFC/getUID.py" />
+        <option value="$PROJECT_DIR$/Functions/Server/client.py" />
+        <option value="$PROJECT_DIR$/Class/Terrain/Block.py" />
+        <option value="$PROJECT_DIR$/Functions/change_heroes.py" />
+        <option value="$PROJECT_DIR$/Class/Entity/Projectile/Projectile.py" />
+        <option value="$PROJECT_DIR$/Class/Entity/Projectile/RoundedProj.py" />
+        <option value="$PROJECT_DIR$/Class/Entity/Character/Symmetra.py" />
+        <option value="$PROJECT_DIR$/Class/Entity/Enemy/Enemy.py" />
+        <option value="$PROJECT_DIR$/Assets/load_textures.py" />
+        <option value="$PROJECT_DIR$/Class/Terrain/Ladders.py" />
+        <option value="$PROJECT_DIR$/Class/Terrain/BlockEnd.py" />
+        <option value="$PROJECT_DIR$/Objects/Terrain/Block/MovingBlock.py" />
+        <option value="$PROJECT_DIR$/Objects/objects_init.py" />
+        <option value="$PROJECT_DIR$/Objects/Entity/Character/Character.py" />
+        <option value="$PROJECT_DIR$/Functions/update_game.py" />
+        <option value="$PROJECT_DIR$/Objects/Entity/Enemy/Enemy.py" />
+        <option value="$PROJECT_DIR$/Objects/Terrain/Block/Ladders.py" />
+        <option value="$PROJECT_DIR$/Objects/Terrain/Block/BlockEnd.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Objects/Terrain/Block/Block.py" />
+        <option value="$PROJECT_DIR$/intValues.py" />
+        <option value="$PROJECT_DIR$/Class/Entity/Character/Character.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-32" />
+    <option name="y" value="-27" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjetISN-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetISN-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetISN-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetISN-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetISN-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetISN-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetISN-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetISN-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+              <item name="Character" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetISN-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetISN-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../enemy" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Enemy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetISN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Objects/Entity/Enemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Objects/Entity/Enemy/Enemy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_textures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetISN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assets/load_textures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjetISN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.load_textures" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Enemy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Enemy" />
+        <item itemvalue="Python.load_textures" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e413beec-d221-415b-b440-17c1493d7d27" name="Default Changelist" comment="" />
+      <created>1553159650893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553159650893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11696523" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22553192" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117492095" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22668113" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class/Entity/Character/Character.py</url>
+          <line>300</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Objects/Terrain/Block/Ladders.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Objects/Terrain/Block/BlockEnd.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Objects/Terrain/Block/MovingBlock.py</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/other/pixels_04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/drawTextures.py" />
+    <entry file="file://$PROJECT_DIR$/Assets/loadingTextures.py" />
+    <entry file="file://$PROJECT_DIR$/Functions/Controls/Keyboard/keyboard_pressed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Entity/SpecialEntity/Teleporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Controls/Mouse/mouse_pressed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/NFC/testuid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/update_NFC.py" />
+    <entry file="file://$PROJECT_DIR$/Functions/Server/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Entity/Projectile/Projectile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Entity/Projectile/RoundedProj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Controls/Mouse/mouse_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/level/Map2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/level/Map1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Entity/Enemy/Enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/change_heroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Terrain/MovingBlock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Terrain/Ladders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/Terrain/Block/MovingBlock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/objects_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/Entity/Enemy/Enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/Terrain/Block/Ladders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/Terrain/Block/BlockEnd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Entity/Character/Symmetra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Terrain/BlockEnd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/Entity/Character/Character.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Terrain/Block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="161" column="13" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/update_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/enemy/Tiki/Rush/WalkLeft/pixels_00.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/fireman/Afk/pixels_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/fireman/Afk/pixels_06.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/knight/Afk/pixels_00.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/knight/Afk/pixels_05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/fireman/Afk/pixels_00.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/knight/Attack/pixels_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/other/pixels_02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/other/fireball.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/NFC/getUID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/other/Ladder.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/load_textures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="74" column="47" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Entity/Character/Character.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/Terrain/Block/Block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/other/MousePressed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/other/nothing.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/level/lilMountain.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/level/tree3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/other/blank.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
